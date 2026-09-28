@@ -1,0 +1,6 @@
+{
+  "name": "Menyusun Rencana Pelaksanaan Pembelajaran Mendalam Kurikulum Merdeka",
+  "description": "Aplikasi Generator Rencana Pelaksanaan Pembelajaran Mendalam (RPPM) SD Berbasis Kurikulum Merdeka - Created by Fery Gustomi Kaharu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
